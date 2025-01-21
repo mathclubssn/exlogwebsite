@@ -1,0 +1,41 @@
+ <div class="flexc">
+          <div class="">
+            <div class="">
+              <img class="imgf" src="./img/founder.88041406.svg" alt="Dr. Shiv Nadar" scale="0">
+            </div>
+            <div class="textf">
+              <h5 class="">Dr. Shiv Nadar</h5>
+              Founder &amp; Chairman <p><strong>
+                  HCL, Shiv Nadar Foundation</strong></p>
+            </div> <!-- .et_pb_team_member_description -->
+          </div> <!-- .et_pb_team_member -->
+          <div class="">
+            <div class="">
+              <img class="imgf" src="./img/president.948688e0.svg" alt="Ms. Kala Vijayakumar" scale="0">
+            </div>
+            <div class="textf">
+              <h5 class="">Ms. Kala Vijayakumar</h5>
+              President
+              <p><strong>SSN Institutions</strong></p>
+            </div> <!-- .et_pb_team_member_description -->
+          </div>
+          <div class="">
+            <div class="">
+              <img style="margin-left: 2vw; margin-top: 4vh; height: 130px; margin-bottom: 3vh; width: 150px;"
+                class="imgf" src="./img/principal1.png" alt="Dr. V.E. Annamalai" scale="0">
+            </div>
+            <div class="textf">
+              <h5 class="">Dr. V.E. Annamalai</h5>
+              Principal
+              <p><strong>SSN College of Engineering</strong></p>
+            </div>
+            <div class="">
+              <div class="">
+                <img class="imgf" src="./img/founder.88041406.svg" alt="Dr. Shiv Nadar" scale="0">
+              </div>
+              <div class="textf">
+                <h5 class="">Dr. Shiv Nadar</h5>
+                Founder &amp; Chairman <p><strong>
+                    HCL, Shiv Nadar Foundation</strong></p>
+              </div>
+            </div>
